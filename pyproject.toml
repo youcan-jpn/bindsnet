@@ -20,8 +20,8 @@ torch = [
      {version = "^2.1.2", platform = "win32", source = "torch"},
      {version = "^2.1.2", platform = "win_amd64", source = "torch"},
  ]
-torchvision = "^0.16.2"
-torchaudio = "^2.1.2"
+torchvision = ">=0.16.2"
+torchaudio = ">=2.1.2"
 tensorboardX = "2.6.2.2"
 tqdm = ">=4.65.0"
 matplotlib = "^3.7.1"
