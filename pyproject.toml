@@ -23,7 +23,7 @@ torch = [
 torchvision = ">=0.16.2"
 torchaudio = ">=2.1.2"
 tensorboardX = "2.6.2.2"
-tqdm = ">=4.65.0"
+tqdm = "*"
 matplotlib = "^3.7.1"
 gymnasium = {extras = ["atari", "accept-rom-license"], version = "^0.29.1"}
 scikit-build = "^0.17.6"
